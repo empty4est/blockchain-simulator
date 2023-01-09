@@ -1,6 +1,6 @@
-# JavaScript Blockchain
+# Blockchain Simulator
 
-A blockchain written in JavaScript. The blockchain features a proof-of-work aglorthim, mining rewards/transactions, and signed wallet transactions.
+An offline blockchain that simulates the Bitcoin protocol with signed wallet transactions. The blockchain can be modified to increase the difficulty of the proof-of-work algorithm and mining rewards.
 
 
 ---
@@ -118,4 +118,4 @@ class Blockchain{
 [This project was built following a great tutorial provided by Simply Explained.](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4)
 
 ---
-[Back To The Top](#javascript-blockchain)
+[Back To The Top](#blockchain-simulator)
